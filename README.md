@@ -1,4 +1,4 @@
-# Pokedex-
+# Pokedex
 First project using public API with JavaScript.
 <br>
 This challenge I had, was to integrate a public API, using JavaScript.
